@@ -1,4 +1,4 @@
-# Introduction-to-Hacking-tools
+# Creating a Metasploitable Machine and Compromising it
 This is the procedure to create a Metasploitable Machine and compromise the system using Metasploit.<br>
 It is assumed that both the network for the Target Machine (Metasploitable 2) and the Hacking Lab (Kali Linux) are configured to NatNetwork in Virtualbox.<br>
 Both should be running before performing the exploitation.<br> Metasploitable 2 has the msfconsole 6 which is what is used in the hacking process.<br>
